@@ -1,8 +1,12 @@
 ## Hi there 👋
 # I,m Alex 
-- I live in Brazil, São Paulo.  
-#### I started studying to become a developer in the beginning of 2020. I am not yet an expert in any technology but I have knowledge in...
+- I live in Brazil, São Paulo.
+- Java Student.  
 
+#### I currently dedicate most of my day to studying java 
+#### I started studying to become a developer in early 2020. I'm not an expert in any language yet but I have knowledge in...
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java icon" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html icon" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css icon" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript icon" width="50" height="50" style="max-width:100%;"></img>
