@@ -18,11 +18,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql icon" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb icon" width="50" height="50" style="max-width:100%;"></img>
 
-
+<!--
 ## :bar_chart: Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexferreiradecastro&show_icons=true&theme=merko)](https://github.com/alexferreiradecastro/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexferreiradecastro&layout=compact&theme=merko)](https://github.com/alexferreiradecastro/github-readme-stats)
-
+-->
 ## Connect with me:<a href="https://www.linkedin.com/in/alexferreiradecastro" target="_blank">
 <img align="center" alt="alexferreiradecastro in linkedin" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></a>
 
