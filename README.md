@@ -6,6 +6,7 @@
 #### I currently dedicate most of my day to studying java 
 #### I started studying to become a developer in early 2020. I'm not an expert in any programming language yet but I have knowledge in...
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws icon" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java icon" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html icon" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css icon" width="50" height="50" style="max-width:100%;"></img>
